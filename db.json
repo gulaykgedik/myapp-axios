@@ -1,0 +1,143 @@
+{
+  "products": [
+    {
+      "name": "Tablet apple",
+      "description": "10-inch tablet with stylus support",
+      "price": "60000",
+      "stock": "30",
+      "brand": "TabFlex",
+      "rating": "4.6",
+      "imageURL": "https://picsum.photos/200/200?random=9",
+      "color": "Red",
+      "id": "9"
+    },
+    {
+      "id": "10",
+      "name": "Drone",
+      "description": "4K camera drone with GPS and obstacle avoidance",
+      "price": 899,
+      "stock": 15,
+      "brand": "SkyFly",
+      "rating": 4.8,
+      "imageURL": "https://picsum.photos/200/200?random=10",
+      "color": "White",
+      "weight": "2kg",
+      "dimensions": "300x300x100mm"
+    },
+    {
+      "id": "12",
+      "name": "External SSD",
+      "description": "1TB portable SSD with USB-C support",
+      "price": 179,
+      "stock": 120,
+      "brand": "DataFast",
+      "rating": 4.7,
+      "imageURL": "https://picsum.photos/200/200?random=12",
+      "color": "Gray",
+      "weight": "150g",
+      "dimensions": "100x60x10mm"
+    },
+    {
+      "id": "13",
+      "name": "Smart TV",
+      "description": "55-inch 4K Smart TV with streaming apps",
+      "price": 799,
+      "stock": 25,
+      "brand": "VisionX",
+      "rating": 4.6,
+      "imageURL": "https://picsum.photos/200/200?random=13",
+      "color": "Black",
+      "weight": "12kg",
+      "dimensions": "1230x710x60mm"
+    },
+    {
+      "name": "Action Camera",
+      "description": "Waterproof action camera with 4K recording",
+      "price": "500",
+      "stock": "75",
+      "brand": "GoProX",
+      "rating": "4.4",
+      "imageURL": "https://picsum.photos/200/200?random=14",
+      "color": "Black",
+      "id": "14"
+    },
+    {
+      "id": "15",
+      "name": "Smart Home Hub",
+      "description": "Voice-controlled smart home hub",
+      "price": 129,
+      "stock": 55,
+      "brand": "HomeLink",
+      "rating": 4.3,
+      "imageURL": "https://picsum.photos/200/200?random=15",
+      "color": "White",
+      "weight": "500g",
+      "dimensions": "100x100x50mm"
+    },
+    {
+      "id": "16",
+      "name": "Portable Charger",
+      "description": "20000mAh power bank with fast charging",
+      "price": 59,
+      "stock": 200,
+      "brand": "ChargeIt",
+      "rating": 4.6,
+      "imageURL": "https://picsum.photos/200/200?random=16",
+      "color": "Black",
+      "weight": "400g",
+      "dimensions": "140x70x25mm"
+    },
+    {
+      "id": "17",
+      "name": "Wireless Router",
+      "description": "Dual-band WiFi 6 router",
+      "price": 179,
+      "stock": 65,
+      "brand": "NetBoost",
+      "rating": 4.5,
+      "imageURL": "https://picsum.photos/200/200?random=17",
+      "color": "White",
+      "weight": "800g",
+      "dimensions": "220x160x35mm"
+    },
+    {
+      "id": "18",
+      "name": "Coffee Maker",
+      "description": "Smart coffee maker with app control",
+      "price": 149,
+      "stock": 35,
+      "brand": "BrewSmart",
+      "rating": 4.2,
+      "imageURL": "https://picsum.photos/200/200?random=18",
+      "color": "Black",
+      "weight": "3kg",
+      "dimensions": "250x200x300mm"
+    },
+    {
+      "id": "19",
+      "name": "Smart Light Bulb",
+      "description": "WiFi-enabled RGB smart bulb",
+      "price": 29,
+      "stock": 300,
+      "brand": "BrightHome",
+      "rating": 4.4,
+      "imageURL": "https://picsum.photos/200/200?random=19",
+      "color": "White",
+      "weight": "80g",
+      "dimensions": "60x60x110mm"
+    },
+    {
+      "id": "20",
+      "name": "Electric Scooter",
+      "description": "Foldable electric scooter with 25km range",
+      "price": 599,
+      "stock": 10,
+      "brand": "RideX",
+      "rating": 4.5,
+      "imageURL": "https://picsum.photos/200/200?random=20",
+      "color": "Black",
+      "weight": "12kg",
+      "dimensions": "1080x430x120mm"
+    }
+  ]
+}
