@@ -1,9 +1,9 @@
-📱 MyApp-Axios
+# 📱 MyApp-Axios
 
 A sample mobile application built with React Native, using Axios for API requests.
 The project includes Redux Toolkit for global state management and React Navigation for screen-to-screen navigation.
 
-🚀 Features
+## 🚀 Features
 
 🔗 REST API integration with Axios
 
@@ -15,7 +15,7 @@ The project includes Redux Toolkit for global state management and React Navigat
 
 📱 Compatible with both iOS and Android
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 React Native 0.80.2
 
@@ -29,6 +29,8 @@ React Redux
 
 React Navigation
 
-📸 Screenshots 
+## 📸 Screenshots 
+
+
 ![myapp-axios](https://github.com/user-attachments/assets/4395ef58-72ad-41f7-a9dc-c113fb990442)
 
